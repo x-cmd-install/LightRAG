@@ -1,0 +1,64 @@
+about:
+  description: [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
+  license: MIT
+  homepage: https://arxiv.org/abs/2410.05779
+  head: c124864
+  archived: false
+  latestVersion: v1.5.7
+  collectedAt: 2026-09-03T04:12:38Z
+timeline:
+  created: 2024-10-02
+  lastCommit: 2026-09-02
+  lastRelease: 2026-09-02
+popularity:
+  star: 39348
+  watcher: 238
+  fork: 5538
+  release: 83
+  contributor: 290
+  pullRequest: 468
+  issue: 1548
+language:
+  Python: 13465447
+  TypeScript: 1384729
+  Shell: 280212
+  JavaScript: 10683
+  CSS: 9226
+  Makefile: 6189
+  Dockerfile: 5877
+  HTML: 1190
+  Go Template: 958
+totalLine: 15164511
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 4
+    mergedPR: 139
+    openPR: 17
+    closedIssue: 37
+    openIssue: 14
+    commit: 890
+  last90d:
+    since: 2026-06-05
+    release: 10
+    mergedPR: 380
+    openPR: 23
+    closedIssue: 66
+    openIssue: 37
+    commit: 2483
+  last180d:
+    since: 2026-03-07
+    release: 19
+    mergedPR: 660
+    openPR: 25
+    closedIssue: 119
+    openIssue: 56
+    commit: 4424
+  last360d:
+    since: 2025-09-08
+    release: 36
+    mergedPR: 932
+    openPR: 27
+    closedIssue: 257
+    openIssue: 146
+    commit: 6049
