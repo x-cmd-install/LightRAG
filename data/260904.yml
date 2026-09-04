@@ -7,13 +7,13 @@ about:
   head: 4f183de
   archived: false
   latestVersion: v1.5.7
-  collectedAt: 2026-09-04T19:32:17Z
+  collectedAt: 2026-09-04T21:00:09Z
 timeline:
   created: 2024-10-02
   lastCommit: 2026-09-04
   lastRelease: 2026-09-02
 popularity:
-  star: 39398
+  star: 39399
   watcher: 301
   fork: 5546
   release: 83
@@ -88,5 +88,98 @@ total:
   openIssue: 191
   commit: 10225
 ---
+path: /home/runner/.x-repo/github.com/HKUDS/LightRAG
+collectedAt: 2026-09-04T21:00:16Z
+loc:
+  Python:
+    code: 282425
+    comments: 26095
+    blanks: 47991
+    files: 732
+  Tsx:
+    code: 14069
+    comments: 2727
+    blanks: 1795
+    files: 104
+  TypeScript:
+    code: 12097
+    comments: 4498
+    blanks: 2044
+    files: 128
+  Json:
+    code: 7283
+    comments: 0
+    blanks: 3
+    files: 38
+  Sh:
+    code: 6771
+    comments: 532
+    blanks: 1183
+    files: 23
+  Yaml:
+    code: 972
+    comments: 232
+    blanks: 59
+    files: 30
+  JavaScript:
+    code: 310
+    comments: 22
+    blanks: 2
+    files: 3
+  Css:
+    code: 215
+    comments: 42
+    blanks: 26
+    files: 2
+  Toml:
+    code: 181
+    comments: 44
+    blanks: 17
+    files: 2
+  Makefile:
+    code: 107
+    comments: 4
+    blanks: 18
+    files: 1
+  Dockerfile:
+    code: 72
+    comments: 43
+    blanks: 31
+    files: 1
+  Pan:
+    code: 38
+    comments: 0
+    blanks: 4
+    files: 1
+  Html:
+    code: 32
+    comments: 2
+    blanks: 0
+    files: 2
+  Autoconf:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  Svg:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 12556
+    blanks: 5194
+    files: 73
+  Text:
+    code: 0
+    comments: 121
+    blanks: 12
+    files: 5
+total:
+  code: 327437
+  comments: 47599
+  blanks: 58716
+  files: 1148
 ---
 
