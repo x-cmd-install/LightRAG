@@ -1,0 +1,217 @@
+about:
+  description: "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation"
+  license: MIT
+  homepage: https://arxiv.org/abs/2410.05779
+  head: 6a4a389
+  archived: false
+  latestVersion: "v1.5.7"
+  collectedAt: 2026-09-07T05:06:41Z
+timeline:
+  created: 2024-10-02
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-02
+popularity:
+  star: 39443
+  watcher: 302
+  fork: 5549
+  release: 83
+  contributor: 296
+  pullRequest: 2146
+  issue: 1563
+language:
+  Python: 13821078
+  TypeScript: 1415859
+  Shell: 280212
+  JavaScript: 10683
+  CSS: 9226
+  Makefile: 6189
+  Dockerfile: 5877
+  HTML: 1190
+  Go Template: 958
+totalBytes: 15551272
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 3
+    mergedPR: 149
+    openPR: 18
+    closedIssue: 36
+    openIssue: 16
+    commit: 838
+  last60d:
+    since: 2026-07-09
+    release: 6
+    mergedPR: 311
+    openPR: 21
+    closedIssue: 57
+    openIssue: 29
+    commit: 1957
+  last90d:
+    since: 2026-06-09
+    release: 10
+    mergedPR: 395
+    openPR: 24
+    closedIssue: 73
+    openIssue: 41
+    commit: 2377
+  last180d:
+    since: 2026-03-11
+    release: 19
+    mergedPR: 690
+    openPR: 26
+    closedIssue: 126
+    openIssue: 60
+    commit: 4447
+  last360d:
+    since: 2025-09-12
+    release: 34
+    mergedPR: 960
+    openPR: 28
+    closedIssue: 265
+    openIssue: 148
+    commit: 6151
+  last720d:
+    since: 2024-09-17
+    release: 83
+    mergedPR: 1669
+    openPR: 29
+    closedIssue: 1368
+    openIssue: 195
+    commit: 10338
+total:
+  release: 83
+  mergedPR: 1670
+  openPR: 29
+  closedIssue: 1368
+  openIssue: 195
+  commit: 10338
+---
+path: /home/runner/.x-repo/github.com/HKUDS/LightRAG
+collectedAt: 2026-09-07T05:06:57Z
+loc:
+  Python:
+    code: 287888
+    comments: 26787
+    blanks: 49118
+    files: 745
+  Tsx:
+    code: 14069
+    comments: 2727
+    blanks: 1795
+    files: 104
+  TypeScript:
+    code: 12097
+    comments: 4498
+    blanks: 2044
+    files: 128
+  Json:
+    code: 7283
+    comments: 0
+    blanks: 3
+    files: 38
+  Sh:
+    code: 6771
+    comments: 532
+    blanks: 1183
+    files: 23
+  Yaml:
+    code: 972
+    comments: 232
+    blanks: 59
+    files: 30
+  JavaScript:
+    code: 310
+    comments: 22
+    blanks: 2
+    files: 3
+  Css:
+    code: 215
+    comments: 42
+    blanks: 26
+    files: 2
+  Toml:
+    code: 181
+    comments: 44
+    blanks: 17
+    files: 2
+  Makefile:
+    code: 107
+    comments: 4
+    blanks: 18
+    files: 1
+  Dockerfile:
+    code: 72
+    comments: 43
+    blanks: 31
+    files: 1
+  Pan:
+    code: 38
+    comments: 0
+    blanks: 4
+    files: 1
+  Html:
+    code: 32
+    comments: 2
+    blanks: 0
+    files: 2
+  Autoconf:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  Svg:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 12732
+    blanks: 5232
+    files: 73
+  Text:
+    code: 0
+    comments: 121
+    blanks: 12
+    files: 5
+total:
+  code: 332913
+  comments: 48484
+  blanks: 59887
+  files: 1161
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:06:58+00:00
+  platform:
+    darwin/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    darwin/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
