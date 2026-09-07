@@ -2,24 +2,24 @@ about:
   description: "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation"
   license: MIT
   homepage: https://arxiv.org/abs/2410.05779
-  head: 6a4a389
+  head: de46c5a
   archived: false
   latestVersion: "v1.5.7"
-  collectedAt: 2026-09-07T05:06:41Z
+  collectedAt: 2026-09-07T19:17:00Z
 timeline:
   created: 2024-10-02
   lastCommit: 2026-09-07
   lastRelease: 2026-09-02
 popularity:
-  star: 39443
+  star: 39463
   watcher: 302
-  fork: 5549
+  fork: 5548
   release: 83
-  contributor: 296
-  pullRequest: 2146
-  issue: 1563
+  contributor: 297
+  pullRequest: 2155
+  issue: 1566
 language:
-  Python: 13821078
+  Python: 13945925
   TypeScript: 1415859
   Shell: 280212
   JavaScript: 10683
@@ -28,72 +28,72 @@ language:
   Dockerfile: 5877
   HTML: 1190
   Go Template: 958
-totalBytes: 15551272
+totalBytes: 15676119
 recent:
   last30d:
     since: 2026-08-08
     release: 3
-    mergedPR: 149
-    openPR: 18
-    closedIssue: 36
-    openIssue: 16
-    commit: 838
+    mergedPR: 156
+    openPR: 20
+    closedIssue: 37
+    openIssue: 18
+    commit: 871
   last60d:
     since: 2026-07-09
     release: 6
-    mergedPR: 311
-    openPR: 21
-    closedIssue: 57
-    openIssue: 29
-    commit: 1957
+    mergedPR: 318
+    openPR: 23
+    closedIssue: 58
+    openIssue: 31
+    commit: 1990
   last90d:
     since: 2026-06-09
     release: 10
-    mergedPR: 395
-    openPR: 24
-    closedIssue: 73
-    openIssue: 41
-    commit: 2377
+    mergedPR: 402
+    openPR: 26
+    closedIssue: 74
+    openIssue: 43
+    commit: 2410
   last180d:
     since: 2026-03-11
     release: 19
-    mergedPR: 690
-    openPR: 26
-    closedIssue: 126
-    openIssue: 60
-    commit: 4447
+    mergedPR: 697
+    openPR: 28
+    closedIssue: 127
+    openIssue: 62
+    commit: 4480
   last360d:
     since: 2025-09-12
     release: 34
-    mergedPR: 960
-    openPR: 28
-    closedIssue: 265
-    openIssue: 148
-    commit: 6151
+    mergedPR: 967
+    openPR: 30
+    closedIssue: 267
+    openIssue: 149
+    commit: 6184
   last720d:
     since: 2024-09-17
     release: 83
-    mergedPR: 1669
-    openPR: 29
-    closedIssue: 1368
-    openIssue: 195
-    commit: 10338
+    mergedPR: 1676
+    openPR: 31
+    closedIssue: 1370
+    openIssue: 196
+    commit: 10368
 total:
   release: 83
-  mergedPR: 1670
-  openPR: 29
-  closedIssue: 1368
-  openIssue: 195
-  commit: 10338
+  mergedPR: 1677
+  openPR: 31
+  closedIssue: 1370
+  openIssue: 196
+  commit: 10368
 ---
 path: /home/runner/.x-repo/github.com/HKUDS/LightRAG
-collectedAt: 2026-09-07T05:06:57Z
+collectedAt: 2026-09-07T19:17:13Z
 loc:
   Python:
-    code: 287888
-    comments: 26787
-    blanks: 49118
-    files: 745
+    code: 289880
+    comments: 27132
+    blanks: 49516
+    files: 749
   Tsx:
     code: 14069
     comments: 2727
@@ -166,8 +166,8 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 12732
-    blanks: 5232
+    comments: 12751
+    blanks: 5242
     files: 73
   Text:
     code: 0
@@ -175,15 +175,15 @@ loc:
     blanks: 12
     files: 5
 total:
-  code: 332913
-  comments: 48484
-  blanks: 59887
-  files: 1161
+  code: 334905
+  comments: 48848
+  blanks: 60295
+  files: 1165
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:06:58+00:00
+  collectedAt: 2026-09-07T19:17:14+00:00
   platform:
     darwin/arm64:
       name:  null
