@@ -7,7 +7,7 @@
 - **Latest release**: `v1.5.7` (2026-09-02)
 - **Last commit**: 2026-09-09
 - **License**: MIT
-- **Stars**: 39503 · **Forks**: 5557 · **Open issues**: 1573 · **Contributors**: 298
+- **Stars**: 39518 · **Forks**: 5558 · **Open issues**: 1579 · **Contributors**: 300
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/LightRAG> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:04:22Z._
+_Last regenerated: 2026-09-09T19:33:02Z._
