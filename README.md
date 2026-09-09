@@ -5,9 +5,9 @@
 - **Upstream**: <https://github.com/HKUDS/LightRAG>
 - **Homepage**: <https://arxiv.org/abs/2410.05779>
 - **Latest release**: `v1.5.7` (2026-09-02)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-09
 - **License**: MIT
-- **Stars**: 39489 · **Forks**: 5551 · **Open issues**: 1570 · **Contributors**: 298
+- **Stars**: 39503 · **Forks**: 5557 · **Open issues**: 1573 · **Contributors**: 298
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/LightRAG> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:26:12Z._
+_Last regenerated: 2026-09-09T05:04:22Z._
