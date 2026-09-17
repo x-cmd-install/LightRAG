@@ -14,11 +14,11 @@ x install LightRAG
 
 ## Code insight
 
-Total: **356,662** lines of code across **1092** files in the top 5 languages.
+Total: **357,675** lines of code across **1095** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 314,164 | 30,325 | 53,917 | 798 |
+| Python | 315,177 | 30,418 | 54,140 | 801 |
 | Tsx | 14,194 | 2,776 | 1,822 | 105 |
 | TypeScript | 12,094 | 4,507 | 2,043 | 128 |
 | Json | 7,283 | 0 | 3 | 38 |
@@ -37,22 +37,22 @@ Total: **356,662** lines of code across **1092** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 39,683 · **Forks**: 5,586 · **Open issues**: 1,594 · **Contributors**: 304
+- **Stars**: 39,711 · **Forks**: 5,589 · **Open issues**: 1,596 · **Contributors**: 304
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 1730 · **Open PRs**: 42 · **Closed issues**: 1403 · **Open issues**: 191 · **Commits**: 10739
+- **Releases**: 83 · **Merged PRs**: 1732 · **Open PRs**: 49 · **Closed issues**: 1403 · **Open issues**: 193 · **Commits**: 10745
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 3 | 174 | 30 | 56 | 14 | 1183 |
-| last60d | 2026-07-18 | 5 | 343 | 34 | 83 | 24 | 2205 |
-| 90d | 2026-06-18 | 7 | 414 | 37 | 98 | 36 | 2782 |
-| last180d | 2026-03-20 | 18 | 731 | 39 | 148 | 55 | 4818 |
-| 360d | 2025-09-21 | 32 | 1010 | 41 | 287 | 141 | 6553 |
-| last720d | 2024-09-26 | 83 | 1729 | 42 | 1403 | 191 | 10739 |
+| 30d | 2026-08-18 | 2 | 171 | 37 | 55 | 15 | 1189 |
+| last60d | 2026-07-19 | 5 | 338 | 41 | 83 | 26 | 2211 |
+| 90d | 2026-06-19 | 7 | 416 | 44 | 97 | 37 | 2788 |
+| last180d | 2026-03-21 | 17 | 731 | 46 | 147 | 57 | 4824 |
+| 360d | 2025-09-22 | 32 | 1010 | 48 | 286 | 142 | 6559 |
+| last720d | 2024-09-27 | 83 | 1731 | 49 | 1403 | 193 | 10745 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for LightRAG lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:15:30Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:25:32Z._
