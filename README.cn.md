@@ -4,7 +4,7 @@
 
 [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 
-[![x-cmd/install — LightRAG Code Quality Monitoring Repo Card](https://repo.x-cmd.io/LightRAG.svg?lang=zh)](https://x-cmd.com/install/LightRAG)
+[![x-cmd/install — LightRAG Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/LightRAG.svg?lang=zh)](https://x-cmd.com/install/LightRAG)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install LightRAG
 
 ## 代码洞察
 
-合计: **360,633** 行代码（覆盖前 5 种语言、共 **1107** 个文件）。
+合计: **361,137** 行代码（覆盖前 5 种语言、共 **1110** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 318,135 | 30,945 | 54,757 | 813 |
+| Python | 318,639 | 30,988 | 54,878 | 816 |
 | Tsx | 14,194 | 2,776 | 1,822 | 105 |
 | TypeScript | 12,094 | 4,507 | 2,043 | 128 |
 | Json | 7,283 | 0 | 3 | 38 |
@@ -37,22 +37,22 @@ x install LightRAG
 
 ## 流行度
 
-- **Star**: 39,809 · **Fork**: 5,606 · **开放 issue**: 1,607 · **贡献者**: 308
+- **Star**: 39,822 · **Fork**: 5,614 · **开放 issue**: 1,607 · **贡献者**: 310
 
 ## 累计统计
 
-- **发布数**: 83 · **已合并 PR**: 1760 · **开放 PR**: 62 · **已关闭 issue**: 1410 · **开放 issue**: 197 · **提交数**: 10819
+- **发布数**: 83 · **已合并 PR**: 1766 · **开放 PR**: 60 · **已关闭 issue**: 1411 · **开放 issue**: 196 · **提交数**: 10835
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 179 | 48 | 51 | 21 | 1166 |
-| last60d | 2026-07-24 | 5 | 329 | 54 | 86 | 30 | 1996 |
-| 90d | 2026-06-24 | 7 | 431 | 56 | 98 | 42 | 2741 |
-| last180d | 2026-03-26 | 17 | 749 | 59 | 150 | 60 | 4792 |
-| 360d | 2025-09-27 | 32 | 1026 | 61 | 291 | 143 | 6563 |
-| last720d | 2024-10-02 | 83 | 1759 | 62 | 1410 | 197 | 10819 |
+| 30d | 2026-08-24 | 1 | 179 | 46 | 49 | 20 | 1182 |
+| last60d | 2026-07-25 | 5 | 326 | 52 | 87 | 29 | 2012 |
+| 90d | 2026-06-25 | 6 | 434 | 53 | 98 | 41 | 2757 |
+| last180d | 2026-03-27 | 17 | 751 | 57 | 150 | 58 | 4808 |
+| 360d | 2025-09-28 | 32 | 1030 | 59 | 292 | 142 | 6579 |
+| last720d | 2024-10-03 | 83 | 1765 | 60 | 1411 | 196 | 10835 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ LightRAG 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:22:29Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:19:40Z._
