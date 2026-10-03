@@ -37,22 +37,22 @@ Total: **361,267** lines of code across **1110** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 39,954 · **Forks**: 5,648 · **Open issues**: 1,622 · **Contributors**: 310
+- **Stars**: 39,948 · **Forks**: 5,648 · **Open issues**: 1,624 · **Contributors**: 310
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 1790 · **Open PRs**: 105 · **Closed issues**: 1419 · **Open issues**: 203 · **Commits**: 10859
+- **Releases**: 83 · **Merged PRs**: 1790 · **Open PRs**: 107 · **Closed issues**: 1419 · **Open issues**: 205 · **Commits**: 10859
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 1 | 146 | 85 | 43 | 30 | 813 |
-| last60d | 2026-08-03 | 4 | 294 | 94 | 86 | 39 | 1785 |
-| 90d | 2026-07-04 | 6 | 448 | 98 | 99 | 51 | 2772 |
-| last180d | 2026-04-05 | 15 | 752 | 102 | 153 | 62 | 4741 |
-| 360d | 2025-10-07 | 30 | 1046 | 104 | 290 | 149 | 6569 |
-| last720d | 2024-10-12 | 83 | 1788 | 105 | 1415 | 203 | 10794 |
+| 30d | 2026-09-03 | 0 | 142 | 86 | 41 | 32 | 813 |
+| last60d | 2026-08-04 | 4 | 291 | 96 | 85 | 41 | 1785 |
+| 90d | 2026-07-05 | 6 | 447 | 100 | 99 | 53 | 2772 |
+| last180d | 2026-04-06 | 15 | 750 | 104 | 153 | 63 | 4741 |
+| 360d | 2025-10-08 | 30 | 1044 | 106 | 290 | 151 | 6569 |
+| last720d | 2024-10-13 | 83 | 1788 | 107 | 1415 | 205 | 10790 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for LightRAG lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:55:50Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:36:05Z._
