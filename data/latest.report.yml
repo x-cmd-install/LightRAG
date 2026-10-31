@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.5.7"
   latestRelease: "v1.5.7"
   latestPrerelease: "v1.5.7rc1"
-  collectedAt: 2026-10-30T06:00:59Z
+  collectedAt: 2026-10-31T05:55:02Z
 timeline:
   created: 2024-10-02
   lastCommit: 2026-10-14
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-02
   lastPrerelease: 2026-08-17
 popularity:
-  star: 40428
+  star: 40446
   watcher: 285
-  fork: 5740
+  fork: 5746
   release: 83
   contributor: 310
-  pullRequest: 2453
+  pullRequest: 2457
   issue: 1673
 language:
   Python: 15541787
@@ -35,63 +35,63 @@ language:
 totalBytes: 17289182
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 0
     mergedPR: 2
-    openPR: 88
+    openPR: 80
     closedIssue: 4
     openIssue: 48
     commit: 23
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 1
-    mergedPR: 167
-    openPR: 158
-    closedIssue: 48
+    mergedPR: 155
+    openPR: 162
+    closedIssue: 47
     openIssue: 77
     commit: 881
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 4
-    mergedPR: 310
-    openPR: 170
+    mergedPR: 304
+    openPR: 173
     closedIssue: 91
     openIssue: 87
     commit: 1876
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 13
-    mergedPR: 686
-    openPR: 174
+    mergedPR: 681
+    openPR: 178
     closedIssue: 147
     openIssue: 102
     commit: 4395
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 24
-    mergedPR: 1001
-    openPR: 177
-    closedIssue: 252
+    mergedPR: 1000
+    openPR: 180
+    closedIssue: 251
     openIssue: 182
     commit: 6296
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 83
-    mergedPR: 1753
-    openPR: 178
-    closedIssue: 1239
+    mergedPR: 1752
+    openPR: 182
+    closedIssue: 1235
     openIssue: 245
-    commit: 10416
+    commit: 10414
 total:
   release: 83
   mergedPR: 1792
-  openPR: 178
+  openPR: 182
   closedIssue: 1428
   openIssue: 245
   commit: 10873
 ---
 path: /home/runner/.x-repo/github.com/HKUDS/LightRAG
-collectedAt: 2026-10-30T06:01:15Z
+collectedAt: 2026-10-31T05:55:17Z
 loc:
   Python:
     code: 319271
