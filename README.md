@@ -14,11 +14,11 @@ x install LightRAG
 
 ## Code insight
 
-Total: **429,470** lines of code across **1335** files in the top 5 languages.
+Total: **430,501** lines of code across **1342** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 385,880 | 34,991 | 67,435 | 1033 |
+| Python | 386,911 | 35,092 | 67,560 | 1040 |
 | Tsx | 14,699 | 2,788 | 1,888 | 108 |
 | TypeScript | 12,167 | 4,374 | 2,017 | 133 |
 | Json | 7,306 | 0 | 3 | 38 |
@@ -33,26 +33,26 @@ Total: **429,470** lines of code across **1335** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.5.8rc1` (2026-11-15)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-21
 
 ## Popularity
 
-- **Stars**: 40,788 · **Forks**: 5,791 · **Open issues**: 1,707 · **Contributors**: 363
+- **Stars**: 40,795 · **Forks**: 5,795 · **Open issues**: 1,708 · **Contributors**: 369
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 2015 · **Open PRs**: 70 · **Closed issues**: 1510 · **Open issues**: 197 · **Commits**: 12093
+- **Releases**: 84 · **Merged PRs**: 2033 · **Open PRs**: 50 · **Closed issues**: 1514 · **Open issues**: 194 · **Commits**: 12172
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 185 | 19 | 30 | 10 | 1240 |
-| last60d | 2026-09-21 | 1 | 279 | 30 | 75 | 25 | 1520 |
-| 90d | 2026-08-22 | 2 | 474 | 58 | 135 | 38 | 2905 |
-| last180d | 2026-05-24 | 13 | 821 | 65 | 216 | 55 | 5424 |
-| 360d | 2025-11-25 | 24 | 1175 | 68 | 316 | 114 | 7535 |
-| last720d | 2024-11-30 | 84 | 1959 | 70 | 1220 | 196 | 11486 |
+| 30d | 2026-10-22 | 1 | 189 | 20 | 32 | 8 | 1340 |
+| last60d | 2026-09-22 | 1 | 287 | 22 | 79 | 22 | 1626 |
+| 90d | 2026-08-23 | 2 | 491 | 37 | 139 | 34 | 3020 |
+| last180d | 2026-05-25 | 13 | 835 | 45 | 219 | 52 | 5539 |
+| 360d | 2025-11-26 | 24 | 1192 | 48 | 320 | 108 | 7650 |
+| last720d | 2024-12-01 | 84 | 1976 | 50 | 1219 | 193 | 11559 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for LightRAG lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:47:42Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:27:56Z._
